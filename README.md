@@ -12,11 +12,14 @@ Olá, me chamo Ícaro e atualmente estou no 5º período de Sistemas de Informa�
 
 * Programação Orientada a objetos
 * Java
-* Git
 * Spring Framework
-* SQL
-* Python
+* JPA
 * Noções de JUnit
+* Git
+* SQL Server
+* MySQL
+* Python
+
 
 
 ## 🔗 Links
