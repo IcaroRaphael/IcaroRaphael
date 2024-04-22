@@ -5,7 +5,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=IcaroRaphael&theme=blue-green)
 
 ## 🚀 Sobre mim
-Olá, me chamo Ícaro e atualmente estou no 5º período de Sistemas de Informação, gosto muito da área de tecnologia e sou apaixonado por lógica de programação, neste momento estou em busca da minha primeira oportunidade de emprego na área de Desenvolvimento Back-End através de um estágio.
+Olá, me chamo Ícaro e atualmente estou no 6º período de Sistemas de Informação, gosto muito da área de tecnologia e sou apaixonado por lógica de programação, neste momento estou em busca da minha primeira oportunidade de emprego na área de Desenvolvimento Back-End através de um estágio.
 ## 📜 [Certificados](https://github.com/IcaroRaphael/Certificados)
 
 ## 🛠 Habilidades
